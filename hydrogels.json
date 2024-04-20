@@ -1,0 +1,439 @@
+[
+    {
+      "Hydrogel Materials": [
+        "Oxidized dextran",
+        "gelatin",
+        "hyaluronic acid"
+      ],
+      "Molecule": [
+        "Naproxen",
+        "Dexamethasone"
+      ],
+      "Release Media": "PBS",
+      "Volume of Release Media (mL)": 10,
+      "Sampled Volume Refreshed": "No",
+      "Enzyme": "No",
+      "pH": 7.4,
+      "Temperature (°C)": 37,
+      "Agitation (rpm)": "No",
+      "Ref": "[7]"
+    },
+    {
+      "Hydrogel Materials": [
+        "Silk sericin",
+        "polyvinyl alcohol"
+      ],
+      "Molecule": [
+        "Aspirin",
+        "Gentamicin"
+      ],
+      "Release Media": "PBS",
+      "Volume of Release Media (mL)": "N.G",
+      "Sampled Volume Refreshed": "No",
+      "Enzyme": "No",
+      "pH": 7.4,
+      "Temperature (°C)": 37,
+      "Agitation (rpm)": "No",
+      "Ref": "[6]"
+    },
+    {
+      "Hydrogel Materials": [
+        "Poloxamer 407"
+      ],
+      "Molecule": [
+        "Methylene blue"
+      ],
+      "Release Media": "PBS",
+      "Volume of Release Media (mL)": 15,
+      "Sampled Volume Refreshed": "Yes",
+      "Enzyme": "No",
+      "pH": "N.G",
+      "Temperature (°C)": 37,
+      "Agitation (rpm)": 100,
+      "Ref": "[59]"
+    },
+    {
+      "Hydrogel Materials": [
+        "Salecan",
+        "chitosan"
+      ],
+      "Molecule": [
+        "Vitamin C"
+      ],
+      "Release Media": "SGF, SIF",
+      "Volume of Release Media (mL)": 50,
+      "Sampled Volume Refreshed": "Yes",
+      "Enzyme": "Yes",
+      "pH": "1.2, 6.8",
+      "Temperature (°C)": 37,
+      "Agitation (rpm)": 50,
+      "Ref": "[12]"
+    },
+    {
+      "Hydrogel Materials": [
+        "N-succinyl chitosan-g-poly (acrylic acid)"
+      ],
+      "Molecule": [
+        "Theophylline"
+      ],
+      "Release Media": "SGF, SIF",
+      "Volume of Release Media (mL)": "N.G",
+      "Sampled Volume Refreshed": "No",
+      "Enzyme": "Yes",
+      "pH": "1.2, 7.4",
+      "Temperature (°C)": 37,
+      "Agitation (rpm)": "No",
+      "Ref": "[60]"
+    },
+    {
+      "Hydrogel Materials": [
+        "Alginate",
+        "Chitosan"
+      ],
+      "Molecule": [
+        "Resveratrol"
+      ],
+      "Release Media": "HCl, PBS",
+      "Volume of Release Media (mL)": 100,
+      "Sampled Volume Refreshed": "No",
+      "Enzyme": "No",
+      "pH": "1.2, 5.5, 6.8, 7.4",
+      "Temperature (°C)": 37,
+      "Agitation (rpm)": 110,
+      "Ref": "[102]"
+    },
+    {
+      "Hydrogel Materials": [
+        "Gellan gum"
+      ],
+      "Molecule": [
+        "Apigenin"
+      ],
+      "Release Media": "PBS",
+      "Volume of Release Media (mL)": 50,
+      "Sampled Volume Refreshed": "No",
+      "Enzyme": "No",
+      "pH": "1, 1.2, 2, 3, 4, 5, 6, 7, 7.4, 8",
+      "Temperature (°C)": 37,
+      "Agitation (rpm)": 100,
+      "Ref": "[61]"
+    },
+    {
+      "Hydrogel Materials": [
+        "2-Hydroxyethyl methacrylate",
+        "methyl methacrylate"
+      ],
+      "Molecule": [
+        "Moxifloxacin",
+        "Diclofenac",
+        "Ketorolac",
+        "Levofloxacin"
+      ],
+      "Release Media": "PBS",
+      "Volume of Release Media (mL)": 15,
+      "Sampled Volume Refreshed": "No",
+      "Enzyme": "No",
+      "pH": "N.G",
+      "Temperature (°C)": "20–24",
+      "Agitation (rpm)": 150,
+      "Ref": "[27,62]"
+    },
+    {
+      "Hydrogel Materials": [
+        "Carboxylated polyvinyl alcohol",
+        "gelatin",
+        "hyaluronic acid"
+      ],
+      "Molecule": [
+        "Ampicillin"
+      ],
+      "Release Media": "N.G",
+      "Volume of Release Media (mL)": "N.G",
+      "Sampled Volume Refreshed": "Yes",
+      "Enzyme": "No",
+      "pH": 7.4,
+      "Temperature (°C)": 37,
+      "Agitation (rpm)": "No",
+      "Ref": "[63]"
+    },
+    {
+      "Hydrogel Materials": [
+        "Chitosan",
+        "polyvinyl alcohol"
+      ],
+      "Molecule": [
+        "Diflunisal"
+      ],
+      "Release Media": "PBS",
+      "Volume of Release Media (mL)": 50,
+      "Sampled Volume Refreshed": "Yes",
+      "Enzyme": "No",
+      "pH": 7.4,
+      "Temperature (°C)": "RT",
+      "Agitation (rpm)": "Yes",
+      "Ref": "[17]"
+    },
+    {
+      "Hydrogel Materials": [
+        "Hyaluronic acid",
+        "dextran",
+        "β-cyclodextrin"
+      ],
+      "Molecule": [
+        "Resveratrol"
+      ],
+      "Release Media": "PBS",
+      "Volume of Release Media (mL)": 20,
+      "Sampled Volume Refreshed": "Yes",
+      "Enzyme": "No",
+      "pH": "N.G",
+      "Temperature (°C)": "N.G",
+      "Agitation (rpm)": "No",
+      "Ref": "[10]"
+    },
+    {
+      "Hydrogel Materials": [
+        "Xanthan gum",
+        "silk fibroin",
+        "hyperbranched mushroom polysaccharide"
+      ],
+      "Molecule": [
+        "BSA",
+        "5-fluorouracil"
+      ],
+      "Release Media": "PBS (0.02% of NaN3)",
+      "Volume of Release Media (mL)": 30,
+      "Sampled Volume Refreshed": "Yes",
+      "Enzyme": "No",
+      "pH": "N.G",
+      "Temperature (°C)": "N.G",
+      "Agitation (rpm)": "No",
+      "Ref": "[58,118]"
+    },
+    {
+      "Hydrogel Materials": [
+        "Gelatin"
+      ],
+      "Molecule": [
+        "Fluorescein"
+      ],
+      "Release Media": "PBS",
+      "Volume of Release Media (mL)": "N.G",
+      "Sampled Volume Refreshed": "Yes",
+      "Enzyme": "No",
+      "pH": "N.G",
+      "Temperature (°C)": "4, 37",
+      "Agitation (rpm)": "Yes",
+      "Ref": "[15]"
+    },
+    {
+      "Hydrogel Materials": [
+        "Xanthan"
+      ],
+      "Molecule": [
+        "Pentoxifylline"
+      ],
+      "Release Media": "Pure H2O, HCl",
+      "Volume of Release Media (mL)": 900,
+      "Sampled Volume Refreshed": "No",
+      "Enzyme": "No",
+      "pH": "1.2, 7",
+      "Temperature (°C)": "37 ± 0.5",
+      "Agitation (rpm)": 50,
+      "Ref": "[64]"
+    },
+    {
+      "Hydrogel Materials": [
+        "Alginate polydopamine"
+      ],
+      "Molecule": [
+        "Bortezomib"
+      ],
+      "Release Media": "PBS",
+      "Volume of Release Media (mL)": "N.G",
+      "Sampled Volume Refreshed": "No",
+      "Enzyme": "No",
+      "pH": "6.5, 7.4",
+      "Temperature (°C)": "N.G",
+      "Agitation (rpm)": "No",
+      "Ref": "[13]"
+    },
+    {
+      "Hydrogel Materials": [
+        "Polyethylene glycol",
+        "polycaprolactone-triol"
+      ],
+      "Molecule": [
+        "Diclofenac"
+      ],
+      "Release Media": "HCl/KCl solution, PBS",
+      "Volume of Release Media (mL)": 10,
+      "Sampled Volume Refreshed": "Yes",
+      "Enzyme": "No",
+      "pH": "1.6, 7.4",
+      "Temperature (°C)": 37.5,
+      "Agitation (rpm)": "Yes",
+      "Ref": "[16]"
+    },
+    {
+      "Hydrogel Materials": [
+        "Linseed polysaccharide"
+      ],
+      "Molecule": [
+        "Moxifloxacin"
+      ],
+      "Release Media": "N.G (USP 37)",
+      "Volume of Release Media (mL)": 900,
+      "Sampled Volume Refreshed": "Yes",
+      "Enzyme": "N.G?",
+      "pH": "1.2, 4.5, 6.8",
+      "Temperature (°C)": "37 ± 0.1",
+      "Agitation (rpm)": 100,
+      "Ref": "[65]"
+    },
+    {
+      "Hydrogel Materials": [
+        "Hyaluronan",
+        "dextran"
+      ],
+      "Molecule": [
+        "Nile red"
+      ],
+      "Release Media": "Saline solution",
+      "Volume of Release Media (mL)": 5,
+      "Sampled Volume Refreshed": "No",
+      "Enzyme": "No",
+      "pH": "N.G",
+      "Temperature (°C)": "25 ± 1",
+      "Agitation (rpm)": "No",
+      "Ref": "[66]"
+    },
+    {
+      "Hydrogel Materials": [
+        "Chitosan",
+        "polyvinyl pyrrolidone"
+      ],
+      "Molecule": [
+        "Cefixime"
+      ],
+      "Release Media": "SGF",
+      "Volume of Release Media (mL)": 500,
+      "Sampled Volume Refreshed": "No",
+      "Enzyme": "No",
+      "pH": 1.2,
+      "Temperature (°C)": "N.G",
+      "Agitation (rpm)": "No",
+      "Ref": "[67]"
+    },
+    {
+      "Hydrogel Materials": [
+        "Alginate",
+        "carboxymethyl chitosan"
+      ],
+      "Molecule": [
+        "Tetracycline hydrochloride",
+        "Silver sulfadiazine"
+      ],
+      "Release Media": "PBS",
+      "Volume of Release Media (mL)": 18,
+      "Sampled Volume Refreshed": "Yes",
+      "Enzyme": "No",
+      "pH": 7.4,
+      "Temperature (°C)": 37,
+      "Agitation (rpm)": 70,
+      "Ref": "[68]"
+    },
+    {
+      "Hydrogel Materials": [
+        "Poly(N-isopropylacrylamide)",
+        "N-tert-butylmaleimic acid"
+      ],
+      "Molecule": [
+        "Rhodamine 6G"
+      ],
+      "Release Media": "SGF, isotonic serum (NaCl), SIF",
+      "Volume of Release Media (mL)": "N.G",
+      "Sampled Volume Refreshed": "N.G",
+      "Enzyme": "N.G?",
+      "pH": "1.2, 7, 7.2",
+      "Temperature (°C)": "23, 37",
+      "Agitation (rpm)": "No",
+      "Ref": "[36]"
+    },
+    {
+      "Hydrogel Materials": [
+        "Graphene",
+        "gelatin"
+      ],
+      "Molecule": [
+        "Zoledronic acid"
+      ],
+      "Release Media": "PBS",
+      "Volume of Release Media (mL)": "N.G",
+      "Sampled Volume Refreshed": "Yes",
+      "Enzyme": "No",
+      "pH": "N.G",
+      "Temperature (°C)": 37,
+      "Agitation (rpm)": "No",
+      "Ref": "[69]"
+    },
+    {
+      "Hydrogel Materials": [
+        "Anionic agarose-carbomer"
+      ],
+      "Molecule": [
+        "Ibuprofen"
+      ],
+      "Release Media": "PBS",
+      "Volume of Release Media (mL)": "N.G",
+      "Sampled Volume Refreshed": "Yes",
+      "Enzyme": "No",
+      "pH": 7.4,
+      "Temperature (°C)": 37,
+      "Agitation (rpm)": "No",
+      "Ref": "[70]"
+    },
+    {
+      "Hydrogel Materials": [
+        "Acrylamide-modified hyaluronic acid",
+        "folic acid",
+        "Fe3+"
+      ],
+      "Molecule": [
+        "acetylsalicylic acid (aspirin)"
+      ],
+      "Release Media": "PBS",
+      "Volume of Release Media (mL)": 4,
+      "Sampled Volume Refreshed": "Yes",
+      "Enzyme": "No",
+      "pH": "6.4, 7.4, 8.4",
+      "Temperature (°C)": 37,
+      "Agitation (rpm)": 60,
+      "Ref": "[19]"
+    },
+    {
+      "Hydrogel Materials": [
+        "DNA",
+        "oxidized alginate"
+      ],
+      "Molecule": [
+        "Simvastatin"
+      ],
+      "Release Media": "PBS/Ethanol (1:1)",
+      "Volume of Release Media (mL)": 0.4,
+      "Sampled Volume Refreshed": "Yes",
+      "Enzyme": "No",
+      "pH": 4.5,
+      "Temperature (°C)": 37,
+      "Agitation (rpm)": 60,
+      "Ref": "[57]"
+    },
+    {
+      "Hydrogel Materials": [
+        "Chitosan"
+      ],
+      "Molecule": [
+        "Kartogenin"
+      ],
+      "Release Media": "PBS",
+      "Volume of Release Media (mL)": 2,
